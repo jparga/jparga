@@ -5,10 +5,10 @@
 ---
 
 ## 🧑‍💻 **¿Quién soy?**
-Soy un apasionado/a del desarrollo de software, especializado en creación de aplicaciones y servicios web. Mi enfoque está en crear soluciones creativas, sencillas, eficientes y de impacto. 🎨💻
+Me gusta el desarrollo de software, especializado en creación de aplicaciones y servicios web. Mi enfoque está en crear soluciones creativas, sencillas, eficientes y de impacto. 🎨💻
 
 ## 🏢 **Entorno profesional**
-Actualmente estoy trabajando en Marca Franca (https://marcafranca.com) empresa dedicada al Corporate Compliance y en Medición de Restricciones Básicas (https://mereba.com) ingeniería, programación e informes periciales. Para ambas diseño, proyecto y creo aplicaiciones web. 
+Actualmente estoy trabajando en Marca Franca (https://marcafranca.com) empresa dedicada al Corporate Compliance y en Medición de Restricciones Básicas (https://mereba.com) ingeniería, programación e informes periciales. Para ambas diseño, proyecto y creo aplicaciones web. 
 
 ---
 
@@ -47,8 +47,8 @@ Explora mi trabajo, aplicaciones en vivo y mucho más. ¡Espero que lo disfrutes
 ## 📫 **Contáctame**
 ¿Quieres colaborar o tienes alguna pregunta?  
 Puedes encontrarme en:
-- **Email**: [jparga@mereba.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://linkedin.com/in/jparga)
+- **Email**: [jparga@mereba.com](mailto:jparga@mereba.com)
+- **LinkedIn**: [es.linkedin.com/in/jparga](https://es.linkedin.com/in/jparga)
 
 ---
 
