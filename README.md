@@ -1,6 +1,6 @@
 # 🌟 Bienvenido a `jparga.github.io` 🌟
 
-¡Hola! Soy ** Jacinto Parga**, y este es el repositorio principal de mi portafolio en GitHub. Aquí encontrarás información sobre mis proyectos, aplicaciones y contribuciones más destacadas. 🚀
+¡Hola! Soy **Jacinto Parga**, y este es el repositorio principal de mi portafolio en GitHub. Aquí encontrarás información sobre mis proyectos, aplicaciones y contribuciones más destacadas. 🚀
 
 ---
 
