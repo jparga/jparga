@@ -33,8 +33,6 @@ Estas son algunas de las aplicaciones en las que he trabajado y que puedes explo
 - **[Atletismo Máster](https://atletismomaster.es/mastercalc)**  
   Una aplicación que permite realizar cálculos de los porcentajes según marcas de atletas máster.
 
-- **[Blog Personal](https://username.github.io/blog)**  
-  Un espacio donde comparto conocimientos, tutoriales y artículos sobre tecnología.
 
 ---
 
