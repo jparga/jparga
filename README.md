@@ -12,20 +12,6 @@ Actualmente estoy trabajando en Marca Franca (https://marcafranca.com) empresa d
 
 ---
 
-## 📂 **Repositorios destacados**
-Aquí tienes una selección de los proyectos y repositorios más importantes en mi GitHub:
-
-1. [**Fork Upptime**](https://github.com/jparga/upptime)  
-   - Fork del respositorio https://github.com/upptime/upptime. Utilizado para monitorizar el tiempo de funcionamiento de mis sitios web.
-   - **Tecnologías utilizadas**: Typescript.
-
-2. [**Fork py4web**](https://github.com/jparga/py4web)  
-   - Fork de la framework de python py4web https://github.com/web2py/py4web .Framework de referencia que uso para las aplicaciones web. Muchas gracias mdipierro
-   - **Tecnologías utilizadas**: [Py4web,POstbreSQL,MySql, Htmx].
-
-> **Nota:** Encuentra más repositorios en [mi perfil de GitHub](https://github.com/jparga).
-
----
 
 ## 🌐 **Aplicaciones destacadas**
 Estas son algunas de las aplicaciones en las que he trabajado y que puedes explorar:
