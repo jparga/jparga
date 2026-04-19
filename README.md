@@ -19,13 +19,6 @@ Estas son algunas de las aplicaciones en las que he trabajado y que puedes explo
 - **[Atletismo Máster](https://atletismomaster.es/mastercalc)**  
   Una aplicación que permite realizar cálculos de los porcentajes según marcas de atletas máster.
 
-
----
-
-## 🚀 **¿Qué más puedes encontrar aquí?**
-Este repositorio alberga la página principal de mi portafolio: **[jparga.github.io](https://jparga.github.io)**.  
-Explora mi trabajo, aplicaciones en vivo y mucho más. ¡Espero que lo disfrutes! 😊
-
 ---
 
 ## 📫 **Contáctame**
