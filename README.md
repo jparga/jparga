@@ -1,97 +1,112 @@
-<!--
-  ════════════════════════════════════════════════════════════════════════
-  README de perfil de GitHub para  github.com/jparga
-  Pégalo directamente en:  https://github.com/jparga/jparga/edit/main/README.md
-  (sustituye todo el contenido actual por lo que hay debajo de esta línea)
-  ════════════════════════════════════════════════════════════════════════
--->
+<!-- Propuesta para github.com/jparga/jparga · README.md · bilingüe ES/EN -->
 
-<h1 align="center">Jacinto Parga · @jparga</h1>
+<div align="center">
 
-<p align="center">
-  <b>Ingeniero de Telecomunicaciones</b> · Aplicaciones y microservicios web · Seguridad y cumplimiento (ENS · ISO 27001) · Informática forense y pericial
-</p>
+# Jacinto Parga · [@jparga](https://github.com/jparga)
 
-<p align="center">
-  <a href="https://mereba.com"><img alt="MEREBA" src="https://img.shields.io/badge/MEREBA-ingeniería_&_peritaje-0b5394?style=for-the-badge"></a>
-  <a href="https://canalresponsable.com"><img alt="Canal Responsable" src="https://img.shields.io/badge/Canal_Responsable-director-2e7d32?style=for-the-badge"></a>
-  <a href="https://es.linkedin.com/in/jparga"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jparga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jparga@mereba.com"><img alt="Email" src="https://img.shields.io/badge/Email-jparga@mereba.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+**🇪🇸 Ingeniero de Telecomunicaciones · software web a medida, seguridad y cumplimiento, pericial informático**
+**🇬🇧 Telecommunications Engineer · custom web software, security & compliance, digital forensics**
 
-<p align="center">
-  <img alt="ENS" src="https://img.shields.io/badge/Esquema_Nacional_de_Seguridad-acreditado-005a9c?style=flat-square">
-  <img alt="ISO 27001" src="https://img.shields.io/badge/ISO%2FIEC_27001-certificado-005a9c?style=flat-square">
-  <img alt="Directiva 2019/1937" src="https://img.shields.io/badge/Whistleblowing-Directiva_(UE)_2019%2F1937-555?style=flat-square">
-</p>
+[![MEREBA](https://img.shields.io/badge/MEREBA-mereba.com-0b5394?style=for-the-badge)](https://mereba.com)
+[![Marca Franca](https://img.shields.io/badge/Marca_Franca-Corporate_Compliance-2e7d32?style=for-the-badge)](https://marcafranca.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jparga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jparga)
+[![Estado de los servicios](https://img.shields.io/badge/status-upptime-brightgreen?style=for-the-badge)](https://jparga.github.io/upptime)
+
+**🇪🇸 [Español](#-español) · 🇬🇧 [English](#-english)**
+
+</div>
 
 ---
 
-### 👋 Sobre mí
+## 🇪🇸 Español
 
-Ingeniero de telecomunicaciones centrado en **diseñar y construir software web** con un criterio de ingeniería: soluciones **sencillas, eficientes y mantenibles** que resuelven un problema real. Reparto mi actividad entre dos organizaciones:
+### Sobre mí
 
-- 🏢 **[MEREBA](https://mereba.com)** — ingeniería personal. Desarrollo de **microservicios y aplicaciones web a medida**, digitalización de procesos e **informes periciales** en informática y telecomunicaciones (incluida pericia caligráfica/forense digital).
-- ⚖️ **[Marca Franca](https://marcafranca.com)** — *Corporate Compliance*. **Director de [Canal Responsable](https://canalresponsable.com)**, la plataforma SaaS de **canal de denuncias** (*whistleblowing*) conforme a la **Directiva (UE) 2019/1937**, integrada en **SIC (Sistema Informatizado de Cumplimiento)**, el sistema de gestión integral de *compliance* con alertas tempranas de Marca Franca. Responsable del mantenimiento de las acreditaciones **Esquema Nacional de Seguridad (ENS)** e **ISO/IEC 27001**.
+Diseño y construyo software web con criterio de ingeniería: soluciones **sencillas, mantenibles y seguras**, del modelo de datos a producción. Trabajo en dos frentes:
 
-> Me interesa todo el ciclo: del modelo de datos al despliegue en producción, pasando por la **seguridad, el cumplimiento normativo** y la operación.
+- 🏢 **[MEREBA](https://mereba.com)**: aplicaciones y microservicios web a medida, digitalización de procesos e **informes periciales** en informática y telecomunicaciones.
+- ⚖️ **[Marca Franca](https://marcafranca.com)**: *Corporate Compliance*. Dirijo **[Canal Responsable](https://canalresponsable.com)**, canal de denuncias conforme a la **Directiva (UE) 2019/1937**, dentro de **SIC** (Sistema Informatizado de Cumplimiento). Mantengo las acreditaciones **ENS** e **ISO/IEC 27001**.
 
-> 🔐 **Producto que dirijo — [Canal Responsable](https://canalresponsable.com):** plataforma de gestión de denuncias para organizaciones (difusión → registro → investigación → cierre), con web HTTPS independiente, servidor certificado y sistema de alertas tempranas. Acreditada en **ENS** e **ISO/IEC 27001**.
+### En qué trabajo ahora
 
----
+| Proyecto | Qué es |
+|---|---|
+| 🔐 **Canal Responsable** | SaaS de canal de denuncias: registro, investigación y cierre, con trazabilidad. |
+| ⛓️ **Anclaje de integridad** | Servicio que sella la integridad de PDFs firmados: log Merkle con firma post-cuántica ML-DSA-65 y anclaje en Bitcoin vía OpenTimestamps. |
+| 🧾 **Facturación VERI\*FACTU** | Facturación conforme al RD 1007/2023, para uso propio. |
+| 📐 **Verificador UNE 197001** | Comprobación de informes periciales según UNE 197001:2019. |
+| 🏃 **Atletismo Máster** | Coeficientes WMA para atletas máster, PWA *offline-first*. |
+| 🛡️ **Bastionado y operación** | Hardening de equipos y servidores, copias y réplicas propias, monitorización. |
 
-### 🛠️ Stack técnico
+> La mayor parte del código es privado (clientes y cumplimiento). Aquí muestro lo público.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![py4web](https://img.shields.io/badge/py4web-1f6feb?style=flat&logo=python&logoColor=white)
-![PyDAL](https://img.shields.io/badge/PyDAL-ORM-555?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Código público
 
-| Área | Tecnologías |
-|------|-------------|
-| **Backend** | Python · py4web (sucesor de web2py) · PyDAL · ombott · scheduler pydal |
-| **Datos** | MySQL · SQLite · NoSQL (Google Datastore) |
-| **Frontend** | YATL · Bulma CSS (SCSS) · HTMX · JS vanilla · PWA *offline-first* |
-| **Infra / DevOps** | Google Cloud (App Engine) · Docker · Caddy · Fail2ban · gunicorn · `uv` |
-| **Integraciones** | Pagos (Bizum / Stripe) · Email transaccional (Mailjet) · CAPTCHA (ALTCHA / reCAPTCHA v3) · generación de PDF (ReportLab) |
-| **Seguridad y cumplimiento** | Esquema Nacional de Seguridad (ENS) · ISO/IEC 27001 · SIC (Sistema Informatizado de Cumplimiento) · canal de denuncias (Directiva (UE) 2019/1937) · gestión de certificaciones |
-| **Forense / pericial** | Extracción y análisis documental (PDF) · análisis de autoría en documentos e imágenes · valoración de daños en telecomunicaciones |
+| Repo | Descripción |
+|---|---|
+| **[gitmereba](https://github.com/jparga/gitmereba)** | App de escritorio Linux (Rust + Tauri) que mantiene un clon local en Gitea de tus cuentas de GitHub, para seguir trabajando si GitHub cae. GPL-3.0. |
+| **[upptime](https://github.com/jparga/upptime)** | [Página de estado](https://jparga.github.io/upptime) de mis webs, con Upptime. |
+| **[py4web-docker-with-example-caddy](https://github.com/jparga/py4web-docker-with-example-caddy)** | py4web + MySQL + Caddy + Fail2ban en Docker. |
 
----
+### Stack
 
-### 🚀 Proyectos destacados
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![py4web](https://img.shields.io/badge/py4web-1f6feb?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **[Atletismo Máster](https://github.com/jparga)** | Aplicación de cálculo de coeficientes WMA para atletas máster. py4web + MySQL, modo **PWA offline**, API de coeficientes y módulo de ingesta de datos. |
-| **py4web-docker-with-example-caddy** | Stack de despliegue listo para producción: **py4web + MySQL + Caddy + Fail2ban** sobre Docker. |
-| **py4web-gae-example** | Plantilla de despliegue de py4web en **Google App Engine**. |
-| **py4web_recaptcha3** | Integración de **reCAPTCHA v3** como *fixture* reutilizable de py4web. |
-| **upptime** | Monitorización de disponibilidad (uptime) de sitios web. |
+**Seguridad y cumplimiento:** ENS · ISO/IEC 27001 · Directiva (UE) 2019/1937 · VERI\*FACTU · UNE 197001
+**Pericial:** análisis documental y de autoría (PDF, imágenes), valoración de daños en telecomunicaciones.
 
----
+### Contacto
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jparga&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estadísticas de GitHub de jparga">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparga&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Lenguajes más usados">
-</p>
+📧 [jparga@mereba.com](mailto:jparga@mereba.com) · 💼 [LinkedIn](https://es.linkedin.com/in/jparga) · 🌐 [mereba.com](https://mereba.com)
 
 ---
 
-### 📫 Contacto
+## 🇬🇧 English
 
-- 🌐 **Web**: [mereba.com](https://mereba.com)
-- ✉️ **Email**: jparga@mereba.com
-- 💼 **LinkedIn**: [in/jparga](https://es.linkedin.com/in/jparga)
+### About me
 
-<sub>¿Te resulta útil alguno de mis proyectos? Dale ⭐ — y si quieres colaborar, escríbeme.</sub>
+I design and build web software with an engineering mindset: **simple, maintainable, secure** solutions, from the data model to production. I work on two fronts:
+
+- 🏢 **[MEREBA](https://mereba.com)**: custom web applications and microservices, process digitisation, and **expert reports** in IT and telecommunications.
+- ⚖️ **[Marca Franca](https://marcafranca.com)**: *Corporate Compliance*. I head **[Canal Responsable](https://canalresponsable.com)**, a whistleblowing channel compliant with **EU Directive 2019/1937**, part of **SIC** (Compliance Management System). I maintain the **ENS** (Spanish National Security Scheme) and **ISO/IEC 27001** accreditations.
+
+### What I'm working on
+
+| Project | What it is |
+|---|---|
+| 🔐 **Canal Responsable** | Whistleblowing SaaS: intake, investigation and closure, fully traceable. |
+| ⛓️ **Integrity anchoring** | Service that seals the integrity of signed PDFs: Merkle log with post-quantum ML-DSA-65 signatures, anchored to Bitcoin via OpenTimestamps. |
+| 🧾 **VERI\*FACTU invoicing** | Invoicing compliant with Spanish RD 1007/2023, in-house use. |
+| 📐 **UNE 197001 checker** | Validation of expert reports against UNE 197001:2019. |
+| 🏃 **Masters Athletics** | WMA age-grading coefficients for masters athletes, offline-first PWA. |
+| 🛡️ **Hardening & ops** | Host and server hardening, own backups and mirrors, monitoring. |
+
+> Most of my code is private (clients and compliance work). Public work is below.
+
+### Public code
+
+| Repo | Description |
+|---|---|
+| **[gitmereba](https://github.com/jparga/gitmereba)** | Linux desktop app (Rust + Tauri) that keeps a working local Gitea clone of your GitHub accounts, so you can keep pushing if GitHub goes down. GPL-3.0. |
+| **[upptime](https://github.com/jparga/upptime)** | [Status page](https://jparga.github.io/upptime) for my sites, built with Upptime. |
+| **[py4web-docker-with-example-caddy](https://github.com/jparga/py4web-docker-with-example-caddy)** | py4web + MySQL + Caddy + Fail2ban on Docker. |
+
+### Stack
+
+Python · py4web · Rust · Tauri · MySQL · Docker · Caddy · Google Cloud · HTMX · Svelte
+
+**Security & compliance:** ENS · ISO/IEC 27001 · EU Directive 2019/1937 · VERI\*FACTU · UNE 197001
+**Forensics:** document and authorship analysis (PDF, images), telecom damage assessment.
+
+### Contact
+
+📧 [jparga@mereba.com](mailto:jparga@mereba.com) · 💼 [LinkedIn](https://es.linkedin.com/in/jparga) · 🌐 [mereba.com](https://mereba.com)
